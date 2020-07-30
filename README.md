@@ -1,39 +1,51 @@
-# Project Name
+# BestBuy Replica
 
-> Project description
-
+> This Repo contains the Full-Stack code base for a replica of a BestBuy Product Page.  This application is meant to replicate the styling and functionality of the BestBuy Product Page.  The review section of this application persisted 2500 unique reviews correlating with 100 unique products.
+ 
 ## Related Projects
 
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
+  - https://github.com/leemch/Nav-Component
+  - https://github.com/CodyPenny/Product-display-Component
+  - https://github.com/cbvargas5/Footer-Component
 
 ## Table of Contents
 
-1. [Usage](#Usage)
-1. [Requirements](#requirements)
-1. [Development](#development)
+1. [Demo](#Demo)
+2. [Requirements](#requirements)
+3. [Development](#development)
+4. [Team](#team)
+5. [Contact](#contact)
 
-## Usage
+## Demo
 
-> Some usage instructions
+Demo Coming Soon!
 
 ## Requirements
 
-An `nvmrc` file is included if using [nvm](https://github.com/creationix/nvm).
-
 - Node 6.13.0
-- etc
+- MongoDB
 
 ## Development
 
-### Installing Dependencies
+### Installing
 
 From within the root directory:
 
 ```sh
-npm install -g webpack
-npm install
+run command: npm i
+run command: npm run seed
+run command: npm run build
+run command: npm start
 ```
 
+## Team
+
+Brian Vargas - https://github.com/cbvargas5
+
+Evelyn Rhee - https://github.com/CodyPenny
+
+Lee McHale - https://github.com/leemch
+
+## Contact
+
+If you want to contact me you can reach me at cbvargas123@gmail.com.
